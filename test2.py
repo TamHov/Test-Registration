@@ -1,3 +1,5 @@
+#Create a new valid user
+
 from time import sleep
 
 from selenium import webdriver
